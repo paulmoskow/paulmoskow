@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I am passionate about creating dynamic and respons
 - **Responsive Design | Version Control**
 - **Figma | Quark Xpress**
 
-## 🛠Projects & Experience
+## Projects & Experience
 ### Freelance & Pet Projects
 - **Static & Responsive Websites**: Developed user-friendly and visually appealing websites.
 - **Single-Page Applications**: Created fast and interactive single-page applications.
