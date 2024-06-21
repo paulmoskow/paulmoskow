@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I am passionate about creating dynamic and respons
 - **HTML | CSS | JavaScript**
 - **React | Express.js | Node.js**
 - **Git | MongoDB | Webpack**
-- **npm/Yarn | RESTful APIs**
+- **npm | RESTful APIs**
 - **Responsive Design | Version Control**
 - **Figma | Quark Xpress**
 
@@ -21,6 +21,6 @@ Welcome to my GitHub profile! I am passionate about creating dynamic and respons
 ## 📫 Let's Connect
 - **Email**: [pavel.moskov@gmail.com](mailto:pavel.moskov@gmail.com)
 - **LinkedIn**: [Pavel Moskov](https://www.linkedin.com/in/pavel-moskov-16844523a)
-- **Portfolio**: [My Portfolio](https://infinclub.ru/)
+- **Portfolio**: [My Portfolio](https://paulmoskow.github.io/portfolio)
 
 Feel free to explore my repositories and reach out for any collaboration!
