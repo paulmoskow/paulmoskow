@@ -12,8 +12,13 @@ Welcome to my GitHub profile! I am passionate about creating dynamic and respons
 
 ## Projects & Experience
 ### Freelance & Pet Projects
-- **Static & Responsive Websites**: Developed user-friendly and visually appealing websites.
-- **Single-Page Applications**: Created fast and interactive single-page applications.
+- **Static & Responsive Websites**: Developed user-friendly and visually appealing websites:
+  [Vodopad](https://paulmoskow.github.io/vodopad)
+  [InFinClubConsulting](https://paulmoskow.github.io/InFinClubConsulting)
+- **Single-Page Applications**: Created fast and interactive single-page applications:
+  [Portfolio](https://paulmoskow.github.io/portfolio)
+  [Bikini](https://paulmoskow.github.io/bikini)
+  [MeowFacts](https://paulmoskow.github.io/my-test)
 - **Client Collaboration**: Planned, designed, and implemented project requirements in collaboration with clients.
 - **Design & Development**: Managed projects from initial concept in Figma to final deployment, covering all aspects of web development.
 - **Deployment**: Ensured smooth deployment and continuous integration of projects.
