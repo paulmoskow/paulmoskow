@@ -3,12 +3,11 @@
 Welcome to my GitHub profile! I am passionate about creating dynamic and responsive web applications with a focus on efficient functionality, clean design, fostering effective team collaboration, and building strong client relationships.
 
 ## Skills & Technologies
-- **HTML | CSS | JavaScript**
-- **React | Express.js | Node.js**
-- **Git | MongoDB | Webpack**
-- **npm | RESTful APIs**
-- **Responsive Design | Version Control**
-- **Figma | Quark Xpress**
+- **HTML | CSS | JavaScript | TypeScript**
+- **React | Next.js | Express.js | Node.js**
+- **Redux | Git | MongoDB | Webpack**
+- **npm | RESTful APIs | Responsive Design**
+- **Figma | Photoshop**
 
 ## Projects & Experience
 ### Freelance & Pet Projects
