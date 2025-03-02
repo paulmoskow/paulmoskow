@@ -20,7 +20,6 @@ Welcome to my GitHub profile! I am passionate about creating dynamic and respons
   [MeowFacts](https://paulmoskow.github.io/my-test)  
 - **Client Collaboration**: Planned, designed, and implemented project requirements in collaboration with clients.
 - **Design & Development**: Managed projects from initial concept in Figma to final deployment, covering all aspects of web development.
-- **Deployment**: Ensured smooth deployment and continuous integration of projects.
 
 ## 📫 Let's Connect
 - **Email**: [pavel.moskov@gmail.com](mailto:pavel.moskov@gmail.com)
